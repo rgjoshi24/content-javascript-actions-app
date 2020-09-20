@@ -13,5 +13,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgjoshi24/content-javascript-actions-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rgjoshi24/content-javascript-actions-app/issues"
+  },
+  "homepage": "https://github.com/rgjoshi24/content-javascript-actions-app#readme"
 }
